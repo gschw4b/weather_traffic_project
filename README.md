@@ -91,7 +91,7 @@ Para executar este projeto, você precisará dos seguintes componentes:
 2. Execute a aplicação, para gerar o dashboard interativo:
 
     ```sh
-    python data_visualization.py
+    python3 data_visualization.py
     ```
 
 3. Abra seu navegador e acesse `http://127.0.0.1:8050/` para visualizar o dashboard.
